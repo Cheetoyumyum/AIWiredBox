@@ -1,0 +1,485 @@
+{
+    "wired": {
+        "effects": [
+            {
+                "wiredId": 2,
+                "delay": 1,
+                "options": [],
+                "config": "",
+                "items": [4]
+            },
+            {
+                "wiredId": 7,
+                "delay": 1,
+                "options": [],
+                "config": "",
+                "items": [9]
+            },
+            {
+                "wiredId": 8,
+                "delay": 1,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [16]
+            },
+            {
+                "wiredId": 10,
+                "delay": 1,
+                "options": [],
+                "config": "",
+                "items": [16]
+            },
+            {
+                "wiredId": 14,
+                "delay": 1,
+                "options": [],
+                "config": "",
+                "items": [21]
+            },
+            {
+                "wiredId": 17,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [
+                    4,
+                    16,
+                    9,
+                    21
+                ]
+            }
+        ],
+        "addons": [],
+        "conditions": [
+            {
+                "wiredId": 1,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [
+                    16,
+                    9,
+                    21,
+                    18
+                ]
+            },
+            {
+                "wiredId": 5,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [
+                    16,
+                    21,
+                    18
+                ]
+            },
+            {
+                "wiredId": 12,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [
+                    21,
+                    18
+                ]
+            },
+            {
+                "wiredId": 13,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [18]
+            },
+            {
+                "wiredId": 19,
+                "options": [
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [18]
+            }
+        ],
+        "triggers": [
+            {
+                "wiredId": 3,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 6,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 11,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 15,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 20,
+                "options": [1],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            }
+        ]
+    },
+    "bindings": [
+        {
+            "wiredId": 1,
+            "furniId": 9,
+            "state": "9"
+        },
+        {
+            "wiredId": 1,
+            "furniId": 16,
+            "state": "5"
+        },
+        {
+            "wiredId": 1,
+            "furniId": 21,
+            "state": "9"
+        },
+        {
+            "wiredId": 1,
+            "furniId": 18,
+            "state": "1"
+        },
+        {
+            "wiredId": 5,
+            "furniId": 16,
+            "state": "5"
+        },
+        {
+            "wiredId": 5,
+            "furniId": 21,
+            "state": "9"
+        },
+        {
+            "wiredId": 5,
+            "furniId": 18,
+            "state": "1"
+        },
+        {
+            "wiredId": 12,
+            "furniId": 21,
+            "state": "9"
+        },
+        {
+            "wiredId": 12,
+            "furniId": 18,
+            "state": "1"
+        },
+        {
+            "wiredId": 13,
+            "furniId": 18,
+            "state": "1"
+        },
+        {
+            "wiredId": 17,
+            "furniId": 4,
+            "state": "0"
+        },
+        {
+            "wiredId": 17,
+            "furniId": 9,
+            "state": "0"
+        },
+        {
+            "wiredId": 17,
+            "furniId": 16,
+            "state": "0"
+        },
+        {
+            "wiredId": 17,
+            "furniId": 21,
+            "state": "0"
+        },
+        {
+            "wiredId": 19,
+            "furniId": 18,
+            "state": "0"
+        }
+    ],
+    "furni": [
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[0]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 1
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_toggle_state[0]",
+            "className": "wf_act_toggle_state",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 2
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[0]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": 3
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[0]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+            },
+            "id": 4,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[1]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 5
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[1]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "id": 6
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_toggle_state[1]",
+            "className": "wf_act_toggle_state",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 7
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[0]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 1.9499999
+            },
+            "id": 8
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[1]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 1,
+                "y": 3,
+                "z": 0
+            },
+            "id": 9,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_toggle_state[2]",
+            "className": "wf_act_toggle_state",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 10
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[2]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 0
+            },
+            "id": 11
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[2]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 12
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[3]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 13
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_toggle_state[3]",
+            "className": "wf_act_toggle_state",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 14
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[3]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0
+            },
+            "id": 15
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[2]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 3,
+                "y": 3,
+                "z": 0
+            },
+            "id": 16,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[1]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 17
+        },
+        {
+            "rotation": 0,
+            "name": "wf_colortile[0]",
+            "className": "wf_colortile",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 1.95
+            },
+            "id": 18,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[4]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 19
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[4]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 0
+            },
+            "id": 20
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[3]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 4,
+                "y": 3,
+                "z": 0
+            },
+            "id": 21,
+            "state": "0"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+  "_note": "Machine-readable code tables for Habbo Wired / G-Presets JSON. Confidence: V=verified in game or by user export, I=inferred, U=unverified.",
+  "comparison_codes": {"0":"<","1":"=","2":">","3":"<=","4":"!=","5":">=","confidence":"V (user export of six conditions in UI order; also used by selectors in field options[0])"},
+  "variable_scope_codes": {"-20":"context","0":"furni","1":"user","-10":"room (I: appears in Cherb conditions)","2":"selector mode flag, not a scope (see selectors)"},
+  "value_source_codes": {"-10":"literal number in options[4]","-20":"context variable (variableIds[1])","0":"furni variable (variableIds[1], furniSources[1])","1":"user variable (variableIds[1], userSources[1])"},
+  "furni_source_codes": {"0":"triggering furni","100":"furni picked in the dialog (items list)","200":"furni output by a selector"},
+  "user_source_codes": {"0":"triggering user","200":"users output by a selector (or forwarded users, depending on the effect)"},
+  "change_variable_operations": {
+    "0":"assign","1":"add","2":"subtract","3":"multiply","4":"divide (integer)","5":"power","6":"modulo",
+    "40":"set minimum: var = max(var, value)","41":"set maximum: var = min(var, value)",
+    "50":"random with upper bound (V: returns 0..value-1; endpoint exclusivity not formally proven)",
+    "60":"absolute value (I; test input was bad, U)",
+    "100":"bitwise AND","101":"bitwise OR","102":"bitwise XOR","103":"bitwise NOT (V: NOT 5 = -6, values are signed 32-bit)",
+    "104":"shift left","105":"shift right (U, never verified)","110":"bit count",
+    "111":"next LOW bit inclusive (next 0 bit at index >= value, -1 if none)",
+    "112":"next HIGH bit inclusive (next 1 bit at index >= value)",
+    "113":"previous LOW bit inclusive (previous 0 bit at index <= value)",
+    "114":"previous HIGH bit inclusive (previous 1 bit at index <= value)",
+    "115":"get bit (0/1)","116":"set bit","117":"clear bit","118":"toggle bit",
+    "119":"next LOW bit exclusive (index > value)","120":"next HIGH bit exclusive","121":"previous LOW bit exclusive (index < value)","122":"previous HIGH bit exclusive",
+    "_low_high":"LOW means a 0 bit, HIGH means a 1 bit. Results are bit indices, -1 when none.",
+    "confidence":"V for all listed except 60 and 105"
+  },
+  "record_layouts": {
+    "wf_act_change_var_val": {"options":"[targetScope, operation, 0, 0, literalValue, valueSourceCode, 0]","variableIds":"[targetVar, referenceVar|'0']","furniSources":"[targetFurniSource, referenceFurniSource]","userSources":"[targetUserSource, referenceUserSource]","delay":"effect delay (unit I: 0.5 s per step)"},
+    "wf_act_give_var": {"options":"[scope, 0, literalValue, overrideExisting(0/1), valueIsReference(0/1), valueSourceCode, 0]","note":"A variable must be GIVEN before it can be changed or selected on. Give with override=1 acts as 'create or assign'."},
+    "wf_cnd_var_val_match": {"options":"[scope, comparisonCode, 0, 0, literalValue, valueSourceCode, 0]","variableIds":"[variable, referenceVar|'0']","quantifier":"0 = all match","confidence":"V"},
+    "wf_slc_users_with_var / wf_slc_furni_with_var": {
+      "options":"[comparisonCode, mode, 0, literalValue, valueSourceCode, 0]",
+      "mode":"0 = just 'has the variable' (value ignored; dialog shows Select-by-value unticked), 1 = select by value compared with the literal in options[3], 2 = select by value compared with the variable named in variableIds[1]",
+      "variableIds":"[variable, referenceVar|'n'|'0']",
+      "flags":"separate JSON booleans 'filter' (Filter existing selection) and 'inverse' (Invert)",
+      "furniSources":"[100]","userSources":"[0]",
+      "evidence":"V: '!u0..!u8' and '!f1/!f2' calibration runs + user's operand.json export (options [0,1,0,1010101010,1,0] shows '<' literal 1010101010 in the dialog)"},
+    "wf_act_send_signal": {"options":"[0,0]","items":"[antenna furni ids (up to 20)]","furniSources":"[antennaSource (100 = use picked furnis), furniToForward (0 = triggering item, 200 = selector output)]","userSources":"[usersToForward (0 = triggering user, 200 = selector output)]","note":"Writing 0 in furniSources[0] makes the antenna come from the triggering item and the signal goes nowhere. V (user fixed this in game)."},
+    "wf_trg_recv_signal": {"items":"[antenna id]","furniSources":"[100]"},
+    "wf_trg_says_something": {"options":"[0,0,1]","config":"chat text e.g. '!fold' or '!raise #(amt)'"},
+    "wf_xtra_text_input_variable": {"config":"placeholder name used as #(name) in the trigger text","variableIds":"[a CONTEXT variable]","note":"V (user + Shop + Cherb exports): the capturer can only write to a context variable. Copy it to a user/furni variable with an effect if you need persistence."},
+    "wf_var_context": {"options":"[1]","variableId":"'' in real exports; the numeric id lives in wired.variables_map. Tick 'Has Value'."},
+    "wf_act_show_message": {"options":"[visibility(0=only the user), notificationStyle(202/212 seen), bubbleWidth(-1)]","userSources":"[0 triggering | 200 selector/signal users]"},
+    "wf_xtra_text_output_variable": {"config":"placeholder name, used as $(name) in messages","options":"[0, scope(-20 ctx else 0), 0]","note":"Set 'Variable display type' to Textual to show text from a Text Connector."},
+    "wf_trg_periodically": {"options":"[2]","note":"copied from Shop; I: 2 = every 1 s (0.5 s units), U"},
+    "wf_trg_var_changed": {"options":"[scope, ?, ?, event, -1, 0]","event_codes":"seen: 3, 4, 7. I: 3 given/created, 4 removed, 7 any change. The UI also offers update/increase/decrease/unchanged; exact codes U."},
+    "wf_act_call_stacks": {"options":"[]","furniSources":"[100]","items":"[trigger furni of the stack to run]","note":"Subroutine call without signals (Cherb record 343). Semantics U."}
+  },
+  "stack_heights_z": {"trigger":0.65,"condition":0.65,"effect":0.65,"selector":1.0,"addon_xtra":0.37,"note":"from user's claude_info.json; stack z values must follow real heights"}
+}

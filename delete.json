@@ -1,0 +1,20 @@
+{
+    "wired": {
+        "effects": [],
+        "variables": [],
+        "addons": [],
+        "conditions": [],
+        "triggers": [],
+        "selectors": [],
+        "variables_map": {
+            "ftst2": "364181",
+            "ptst": "364179",
+            "fsum": "364182",
+            "cst_n": "364183",
+            "cst_p": "364184",
+            "ftst": "364180"
+        }
+    },
+    "bindings": [],
+    "furni": []
+}

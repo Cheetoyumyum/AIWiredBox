@@ -1,0 +1,113 @@
+{
+    "wired": {
+        "effects": [{
+            "secondItems": [],
+            "furniSources": [
+                200,
+                200
+            ],
+            "wiredId": 1,
+            "userSources": [
+                0,
+                200
+            ],
+            "delay": 0,
+            "variableIds": [
+                "364754",
+                "0"
+            ],
+            "options": [
+                0,
+                1,
+                0,
+                0,
+                10000000,
+                -10,
+                0
+            ],
+            "config": "",
+            "items": []
+        }],
+        "variables": [],
+        "addons": [],
+        "conditions": [],
+        "triggers": [{
+            "secondItems": [],
+            "furniSources": [],
+            "wiredId": 3,
+            "userSources": [],
+            "variableIds": [],
+            "options": [
+                0,
+                0,
+                1
+            ],
+            "config": "!f7",
+            "items": []
+        }],
+        "selectors": [{
+            "secondItems": [],
+            "furniSources": [100],
+            "filter": false,
+            "inverse": false,
+            "wiredId": 2,
+            "userSources": [0],
+            "variableIds": [
+                "364753",
+                "n"
+            ],
+            "options": [
+                0,
+                1,
+                0,
+                1010101010,
+                1,
+                0
+            ],
+            "config": "",
+            "items": []
+        }],
+        "variables_map": {
+            "ptst": "364752",
+            "fres": "364754",
+            "cst_p": "364755",
+            "ftst": "364753"
+        }
+    },
+    "bindings": [],
+    "furni": [
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[0]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 1.65
+            },
+            "id": 1
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_with_var[0]",
+            "className": "wf_slc_furni_with_var",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 2
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[0]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": 3
+        }
+    ]
+}

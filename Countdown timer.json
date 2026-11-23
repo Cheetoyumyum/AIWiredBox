@@ -1,0 +1,1859 @@
+{
+    "wired": {
+        "effects": [
+            {
+                "wiredId": 1,
+                "delay": 1,
+                "options": [
+                    5,
+                    0
+                ],
+                "config": "",
+                "items": [68],
+                "stuff": 0
+            },
+            {
+                "wiredId": 5,
+                "delay": 1,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [
+                    63,
+                    65,
+                    67
+                ],
+                "stuff": 0
+            },
+            {
+                "wiredId": 7,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 8,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 9,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 11,
+                "delay": 1,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [
+                    63,
+                    65
+                ],
+                "stuff": 0
+            },
+            {
+                "wiredId": 12,
+                "delay": 1,
+                "options": [
+                    5,
+                    0
+                ],
+                "config": "",
+                "items": [67],
+                "stuff": 0
+            },
+            {
+                "wiredId": 17,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 18,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 19,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 21,
+                "delay": 1,
+                "options": [
+                    5,
+                    0
+                ],
+                "config": "",
+                "items": [65],
+                "stuff": 0
+            },
+            {
+                "wiredId": 23,
+                "delay": 1,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [63],
+                "stuff": 0
+            },
+            {
+                "wiredId": 27,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 28,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 29,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 31,
+                "delay": 1,
+                "options": [
+                    5,
+                    0
+                ],
+                "config": "",
+                "items": [63],
+                "stuff": 0
+            },
+            {
+                "wiredId": 35,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 36,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 37,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 39,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 40,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [38],
+                "stuff": 0
+            },
+            {
+                "wiredId": 41,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 42,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 45,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 46,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [38],
+                "stuff": 0
+            },
+            {
+                "wiredId": 47,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 48,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 49,
+                "delay": 0,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [
+                    68,
+                    63,
+                    65,
+                    67
+                ],
+                "stuff": 0
+            },
+            {
+                "wiredId": 50,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 51,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [38],
+                "stuff": 0
+            },
+            {
+                "wiredId": 52,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 53,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 54,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 55,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [38],
+                "stuff": 0
+            },
+            {
+                "wiredId": 56,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 57,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 58,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 59,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [38],
+                "stuff": 0
+            },
+            {
+                "wiredId": 60,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 61,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            },
+            {
+                "wiredId": 62,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [43],
+                "stuff": 0
+            },
+            {
+                "wiredId": 64,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [38],
+                "stuff": 0
+            },
+            {
+                "wiredId": 66,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [20],
+                "stuff": 0
+            },
+            {
+                "wiredId": 69,
+                "delay": 0,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [10],
+                "stuff": 0
+            }
+        ],
+        "conditions": [
+            {
+                "wiredId": 2,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [68],
+                "stuff": 0
+            },
+            {
+                "wiredId": 3,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [
+                    63,
+                    65,
+                    67
+                ],
+                "stuff": 0
+            },
+            {
+                "wiredId": 4,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [44],
+                "stuff": 0
+            },
+            {
+                "wiredId": 13,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [44],
+                "stuff": 0
+            },
+            {
+                "wiredId": 14,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [
+                    63,
+                    65
+                ],
+                "stuff": 0
+            },
+            {
+                "wiredId": 15,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [67],
+                "stuff": 0
+            },
+            {
+                "wiredId": 22,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [44],
+                "stuff": 0
+            },
+            {
+                "wiredId": 25,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [63],
+                "stuff": 0
+            },
+            {
+                "wiredId": 26,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [65],
+                "stuff": 0
+            },
+            {
+                "wiredId": 32,
+                "options": [
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [44],
+                "stuff": 0
+            },
+            {
+                "wiredId": 34,
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "",
+                "items": [63],
+                "stuff": 0
+            }
+        ],
+        "triggers": [
+            {
+                "wiredId": 6,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 16,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 24,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 33,
+                "options": [2],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 63,
+                "options": [1],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 65,
+                "options": [1],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 67,
+                "options": [1],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            },
+            {
+                "wiredId": 68,
+                "options": [1],
+                "config": "",
+                "items": [],
+                "stuff": 0
+            }
+        ]
+    },
+    "bindings": [
+        {
+            "wiredId": 2,
+            "furniId": 68,
+            "location": {
+                "x": 9,
+                "y": 5
+            }
+        },
+        {
+            "wiredId": 3,
+            "furniId": 63,
+            "location": {
+                "x": 9,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 3,
+            "furniId": 65,
+            "location": {
+                "x": 9,
+                "y": 3
+            }
+        },
+        {
+            "wiredId": 3,
+            "furniId": 67,
+            "location": {
+                "x": 9,
+                "y": 4
+            }
+        },
+        {
+            "wiredId": 4,
+            "furniId": 44,
+            "state": "1"
+        },
+        {
+            "wiredId": 5,
+            "furniId": 63,
+            "location": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 5,
+            "furniId": 65,
+            "location": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        {
+            "wiredId": 5,
+            "furniId": 67,
+            "location": {
+                "x": 0,
+                "y": 4
+            }
+        },
+        {
+            "wiredId": 7,
+            "furniId": 43,
+            "state": "9"
+        },
+        {
+            "wiredId": 8,
+            "furniId": 20,
+            "state": "9"
+        },
+        {
+            "wiredId": 9,
+            "furniId": 10,
+            "state": "9"
+        },
+        {
+            "wiredId": 11,
+            "furniId": 63,
+            "location": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 11,
+            "furniId": 65,
+            "location": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        {
+            "wiredId": 13,
+            "furniId": 44,
+            "state": "1"
+        },
+        {
+            "wiredId": 14,
+            "furniId": 63,
+            "location": {
+                "x": 9,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 14,
+            "furniId": 65,
+            "location": {
+                "x": 9,
+                "y": 3
+            }
+        },
+        {
+            "wiredId": 15,
+            "furniId": 67,
+            "location": {
+                "x": 9,
+                "y": 4
+            }
+        },
+        {
+            "wiredId": 17,
+            "furniId": 43,
+            "state": "8"
+        },
+        {
+            "wiredId": 18,
+            "furniId": 20,
+            "state": "8"
+        },
+        {
+            "wiredId": 19,
+            "furniId": 10,
+            "state": "8"
+        },
+        {
+            "wiredId": 22,
+            "furniId": 44,
+            "state": "1"
+        },
+        {
+            "wiredId": 23,
+            "furniId": 63,
+            "location": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 25,
+            "furniId": 63,
+            "location": {
+                "x": 9,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 26,
+            "furniId": 65,
+            "location": {
+                "x": 9,
+                "y": 3
+            }
+        },
+        {
+            "wiredId": 27,
+            "furniId": 43,
+            "state": "7"
+        },
+        {
+            "wiredId": 28,
+            "furniId": 20,
+            "state": "7"
+        },
+        {
+            "wiredId": 29,
+            "furniId": 10,
+            "state": "7"
+        },
+        {
+            "wiredId": 32,
+            "furniId": 44,
+            "state": "1"
+        },
+        {
+            "wiredId": 34,
+            "furniId": 63,
+            "location": {
+                "x": 9,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 35,
+            "furniId": 43,
+            "state": "6"
+        },
+        {
+            "wiredId": 36,
+            "furniId": 20,
+            "state": "6"
+        },
+        {
+            "wiredId": 37,
+            "furniId": 10,
+            "state": "6"
+        },
+        {
+            "wiredId": 39,
+            "furniId": 43,
+            "state": "5"
+        },
+        {
+            "wiredId": 40,
+            "furniId": 38,
+            "state": "5"
+        },
+        {
+            "wiredId": 41,
+            "furniId": 20,
+            "state": "5"
+        },
+        {
+            "wiredId": 42,
+            "furniId": 10,
+            "state": "5"
+        },
+        {
+            "wiredId": 45,
+            "furniId": 43,
+            "state": "4"
+        },
+        {
+            "wiredId": 46,
+            "furniId": 38,
+            "state": "4"
+        },
+        {
+            "wiredId": 47,
+            "furniId": 20,
+            "state": "4"
+        },
+        {
+            "wiredId": 48,
+            "furniId": 10,
+            "state": "4"
+        },
+        {
+            "wiredId": 49,
+            "furniId": 68,
+            "location": {
+                "x": 9,
+                "y": 5
+            }
+        },
+        {
+            "wiredId": 49,
+            "furniId": 63,
+            "location": {
+                "x": 9,
+                "y": 2
+            }
+        },
+        {
+            "wiredId": 49,
+            "furniId": 65,
+            "location": {
+                "x": 9,
+                "y": 3
+            }
+        },
+        {
+            "wiredId": 49,
+            "furniId": 67,
+            "location": {
+                "x": 9,
+                "y": 4
+            }
+        },
+        {
+            "wiredId": 50,
+            "furniId": 43,
+            "state": "3"
+        },
+        {
+            "wiredId": 51,
+            "furniId": 38,
+            "state": "3"
+        },
+        {
+            "wiredId": 52,
+            "furniId": 20,
+            "state": "3"
+        },
+        {
+            "wiredId": 53,
+            "furniId": 10,
+            "state": "3"
+        },
+        {
+            "wiredId": 54,
+            "furniId": 43,
+            "state": "2"
+        },
+        {
+            "wiredId": 55,
+            "furniId": 38,
+            "state": "2"
+        },
+        {
+            "wiredId": 56,
+            "furniId": 20,
+            "state": "2"
+        },
+        {
+            "wiredId": 57,
+            "furniId": 10,
+            "state": "2"
+        },
+        {
+            "wiredId": 58,
+            "furniId": 43,
+            "state": "1"
+        },
+        {
+            "wiredId": 59,
+            "furniId": 38,
+            "state": "1"
+        },
+        {
+            "wiredId": 60,
+            "furniId": 20,
+            "state": "1"
+        },
+        {
+            "wiredId": 61,
+            "furniId": 10,
+            "state": "1"
+        },
+        {
+            "wiredId": 62,
+            "furniId": 43,
+            "state": "0"
+        },
+        {
+            "wiredId": 64,
+            "furniId": 38,
+            "state": "0"
+        },
+        {
+            "wiredId": 66,
+            "furniId": 20,
+            "state": "0"
+        },
+        {
+            "wiredId": 69,
+            "furniId": 10,
+            "state": "0"
+        }
+    ],
+    "furni": [
+        {
+            "rotation": 0,
+            "name": "wf_act_move_rotate[0]",
+            "className": "wf_act_move_rotate",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 1.62
+            },
+            "id": 1
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_not_match_snap[0]",
+            "className": "wf_cnd_not_match_snap",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0.97
+            },
+            "id": 2
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[0]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0.32
+            },
+            "id": 3
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[1]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 4
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[0]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 1.29
+            },
+            "id": 5
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[0]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": 6
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[1]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 0,
+                "y": 2,
+                "z": 0
+            },
+            "id": 7
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[2]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 0,
+                "y": 4,
+                "z": 0
+            },
+            "id": 8
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[3]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 0,
+                "y": 5,
+                "z": 0
+            },
+            "id": 9
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[0]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 0,
+                "y": 7,
+                "z": 0
+            },
+            "id": 10,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[4]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 1.29
+            },
+            "id": 11
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_move_rotate[1]",
+            "className": "wf_act_move_rotate",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 1.62
+            },
+            "id": 12
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[2]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 13
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[3]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 0.32
+            },
+            "id": 14
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_not_match_snap[1]",
+            "className": "wf_cnd_not_match_snap",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 0.97
+            },
+            "id": 15
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[1]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "id": 16
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[5]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 1,
+                "y": 2,
+                "z": 0
+            },
+            "id": 17
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[6]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 1,
+                "y": 4,
+                "z": 0
+            },
+            "id": 18
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[7]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 1,
+                "y": 5,
+                "z": 0
+            },
+            "id": 19
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[1]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 1,
+                "y": 7,
+                "z": 0
+            },
+            "id": 20,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_move_rotate[2]",
+            "className": "wf_act_move_rotate",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 1.62
+            },
+            "id": 21
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[4]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 22
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[8]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 1.29
+            },
+            "id": 23
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[2]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 0
+            },
+            "id": 24
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[5]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 0.32
+            },
+            "id": 25
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_not_match_snap[2]",
+            "className": "wf_cnd_not_match_snap",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 0.97
+            },
+            "id": 26
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[9]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 2,
+                "y": 2,
+                "z": 0
+            },
+            "id": 27
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[10]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 2,
+                "y": 4,
+                "z": 0
+            },
+            "id": 28
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[11]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 2,
+                "y": 5,
+                "z": 0
+            },
+            "id": 29
+        },
+        {
+            "rotation": 6,
+            "name": "bc_hemisphere_recolorable[0]",
+            "className": "bc_hemisphere_recolorable",
+            "location": {
+                "x": 2,
+                "y": 7,
+                "z": 0
+            },
+            "id": 30,
+            "state": "1"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_move_rotate[3]",
+            "className": "wf_act_move_rotate",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0.97
+            },
+            "id": 31
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_match_snapshot[6]",
+            "className": "wf_cnd_match_snapshot",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0.32
+            },
+            "id": 32
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[3]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0
+            },
+            "id": 33
+        },
+        {
+            "rotation": 2,
+            "name": "wf_cnd_not_match_snap[3]",
+            "className": "wf_cnd_not_match_snap",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 34
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[12]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 3,
+                "y": 2,
+                "z": 0
+            },
+            "id": 35
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[13]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 3,
+                "y": 4,
+                "z": 0
+            },
+            "id": 36
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[14]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 3,
+                "y": 5,
+                "z": 0
+            },
+            "id": 37
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[2]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 3,
+                "y": 7,
+                "z": 0
+            },
+            "id": 38,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[15]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 4,
+                "y": 2,
+                "z": 0
+            },
+            "id": 39
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[16]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 4,
+                "y": 3,
+                "z": 0
+            },
+            "id": 40
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[17]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 4,
+                "y": 4,
+                "z": 0
+            },
+            "id": 41
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[18]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 4,
+                "y": 5,
+                "z": 0
+            },
+            "id": 42
+        },
+        {
+            "rotation": 0,
+            "name": "bc_alpha1_num_recolorable[3]",
+            "className": "bc_alpha1_num_recolorable",
+            "location": {
+                "x": 4,
+                "y": 7,
+                "z": 0
+            },
+            "id": 43,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wcandle[0]",
+            "className": "wcandle",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 0
+            },
+            "id": 44,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[19]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 5,
+                "y": 2,
+                "z": 0
+            },
+            "id": 45
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[20]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 5,
+                "y": 3,
+                "z": 0
+            },
+            "id": 46
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[21]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 5,
+                "y": 4,
+                "z": 0
+            },
+            "id": 47
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[22]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 5,
+                "y": 5,
+                "z": 0
+            },
+            "id": 48
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[23]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 0
+            },
+            "id": 49
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[24]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 6,
+                "y": 2,
+                "z": 0
+            },
+            "id": 50
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[25]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 6,
+                "y": 3,
+                "z": 0
+            },
+            "id": 51
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[26]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 6,
+                "y": 4,
+                "z": 0
+            },
+            "id": 52
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[27]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 6,
+                "y": 5,
+                "z": 0
+            },
+            "id": 53
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[28]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 7,
+                "y": 2,
+                "z": 0
+            },
+            "id": 54
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[29]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 7,
+                "y": 3,
+                "z": 0
+            },
+            "id": 55
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[30]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 7,
+                "y": 4,
+                "z": 0
+            },
+            "id": 56
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[31]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 7,
+                "y": 5,
+                "z": 0
+            },
+            "id": 57
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[32]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 8,
+                "y": 2,
+                "z": 0
+            },
+            "id": 58
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[33]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 8,
+                "y": 3,
+                "z": 0
+            },
+            "id": 59
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[34]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 8,
+                "y": 4,
+                "z": 0
+            },
+            "id": 60
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[35]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 8,
+                "y": 5,
+                "z": 0
+            },
+            "id": 61
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[36]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 9,
+                "y": 2,
+                "z": 0
+            },
+            "id": 62
+        },
+        {
+            "rotation": 6,
+            "name": "wf_trg_periodically[4]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 9,
+                "y": 2,
+                "z": 0.65
+            },
+            "id": 63
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[37]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 9,
+                "y": 3,
+                "z": 0
+            },
+            "id": 64
+        },
+        {
+            "rotation": 6,
+            "name": "wf_trg_periodically[5]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 9,
+                "y": 3,
+                "z": 0.65
+            },
+            "id": 65
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[38]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 9,
+                "y": 4,
+                "z": 0
+            },
+            "id": 66
+        },
+        {
+            "rotation": 6,
+            "name": "wf_trg_periodically[6]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 9,
+                "y": 4,
+                "z": 0.65
+            },
+            "id": 67
+        },
+        {
+            "rotation": 6,
+            "name": "wf_trg_periodically[7]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 9,
+                "y": 5,
+                "z": 0.64
+            },
+            "id": 68
+        },
+        {
+            "rotation": 2,
+            "name": "wf_act_match_to_sshot[39]",
+            "className": "wf_act_match_to_sshot",
+            "location": {
+                "x": 9,
+                "y": 5,
+                "z": 0
+            },
+            "id": 69
+        }
+    ]
+}

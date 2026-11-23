@@ -1,0 +1,1108 @@
+{
+    "recolorables": [
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 4
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 6
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 7
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 9
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 10
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 12
+        },
+        {
+            "red": "81",
+            "green": "49",
+            "blue": "0",
+            "furniId": 13
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 17
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 18
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 19
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 20
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 22
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 25
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 26
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 27
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 28
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 30
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 33
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 35
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 36
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 39
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 40
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 42
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 44
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 45
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 46
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 49
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 51
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 52
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 54
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 56
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 57
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 60
+        },
+        {
+            "red": "81",
+            "green": "49",
+            "blue": "0",
+            "furniId": 61
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 62
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 65
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 66
+        },
+        {
+            "red": "81",
+            "green": "49",
+            "blue": "0",
+            "furniId": 68
+        },
+        {
+            "red": "0",
+            "green": "169",
+            "blue": "67",
+            "furniId": 70
+        },
+        {
+            "red": "82",
+            "green": "82",
+            "blue": "82",
+            "furniId": 71
+        }
+    ],
+    "wired": {
+        "effects": [],
+        "variables": [],
+        "addons": [],
+        "conditions": [],
+        "triggers": [],
+        "selectors": [],
+        "variables_map": {}
+    },
+    "bindings": [],
+    "furni": [
+        {
+            "rotation": 0,
+            "name": "bling11_floor[0]",
+            "className": "bling11_floor",
+            "location": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "id": 1,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "classic9_chair[0]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 0,
+                "y": 1,
+                "z": 1.0E-6
+            },
+            "id": 2
+        },
+        {
+            "rotation": 2,
+            "name": "classic9_chair[1]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 0,
+                "y": 3,
+                "z": 1.0E-6
+            },
+            "id": 3
+        },
+        {
+            "rotation": 0,
+            "name": "bc_round_recolorable[0]",
+            "className": "bc_round_recolorable",
+            "location": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "id": 4,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[0]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 1,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 5
+        },
+        {
+            "rotation": 6,
+            "name": "bc_block_small_recolorable[0]",
+            "className": "bc_block_small_recolorable",
+            "location": {
+                "x": 1,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 6,
+            "state": "4"
+        },
+        {
+            "rotation": 6,
+            "name": "bc_block_0_recolorable[0]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 1,
+                "y": 2,
+                "z": 1
+            },
+            "id": 7,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[1]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 1,
+                "y": 2,
+                "z": 1.25
+            },
+            "id": 8
+        },
+        {
+            "rotation": 2,
+            "name": "bc_block_0_recolorable[1]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 1,
+                "y": 2,
+                "z": 1.25
+            },
+            "id": 9,
+            "state": "4"
+        },
+        {
+            "rotation": 6,
+            "name": "bc_round_recolorable[1]",
+            "className": "bc_round_recolorable",
+            "location": {
+                "x": 1,
+                "y": 3,
+                "z": 1
+            },
+            "id": 10,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[2]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 1,
+                "y": 3,
+                "z": 1.3
+            },
+            "id": 11
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_small_recolorable[1]",
+            "className": "bc_block_small_recolorable",
+            "location": {
+                "x": 1,
+                "y": 3,
+                "z": 1.3
+            },
+            "id": 12,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_stick_recolorable[0]",
+            "className": "bc_stick_recolorable",
+            "location": {
+                "x": 1,
+                "y": 3,
+                "z": 0
+            },
+            "id": 13,
+            "state": "3"
+        },
+        {
+            "rotation": 4,
+            "name": "classic9_chair[2]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 1.0E-6
+            },
+            "id": 14
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[3]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 15
+        },
+        {
+            "rotation": 0,
+            "name": "bling11_floor[1]",
+            "className": "bling11_floor",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "id": 16,
+            "state": "0"
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[2]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 17,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[3]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 1
+            },
+            "id": 18,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_1_recolorable[0]",
+            "className": "bc_block_1_recolorable",
+            "location": {
+                "x": 2,
+                "y": 2,
+                "z": 1
+            },
+            "id": 19,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[4]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 2,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 20,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[4]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 2,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 21
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[5]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 2,
+                "y": 3,
+                "z": 1
+            },
+            "id": 22,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "classic9_chair[3]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 2,
+                "y": 4,
+                "z": 1.0E-6
+            },
+            "id": 23
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[5]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 3,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 24
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[6]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 3,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 25,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[7]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 3,
+                "y": 1,
+                "z": 1
+            },
+            "id": 26,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_1_recolorable[1]",
+            "className": "bc_block_1_recolorable",
+            "location": {
+                "x": 3,
+                "y": 2,
+                "z": 1
+            },
+            "id": 27,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[8]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 3,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 28,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[6]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 3,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 29
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[9]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 3,
+                "y": 3,
+                "z": 1
+            },
+            "id": 30,
+            "state": "3"
+        },
+        {
+            "rotation": 2,
+            "name": "wonderland_c25_tile3[0]",
+            "className": "wonderland_c25_tile3",
+            "location": {
+                "x": 3,
+                "y": 3,
+                "z": 2.5
+            },
+            "id": 31,
+            "state": "1"
+        },
+        {
+            "rotation": 0,
+            "name": "bling11_floor[2]",
+            "className": "bling11_floor",
+            "location": {
+                "x": 4,
+                "y": 1,
+                "z": 0
+            },
+            "id": 32,
+            "state": "0"
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[10]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 4,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 33,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[7]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 4,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 34
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[11]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 4,
+                "y": 1,
+                "z": 1
+            },
+            "id": 35,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_1_recolorable[2]",
+            "className": "bc_block_1_recolorable",
+            "location": {
+                "x": 4,
+                "y": 2,
+                "z": 1
+            },
+            "id": 36,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[8]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 4,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 37
+        },
+        {
+            "rotation": 2,
+            "name": "wonderland_c25_tile3[1]",
+            "className": "wonderland_c25_tile3",
+            "location": {
+                "x": 4,
+                "y": 3,
+                "z": 2.5
+            },
+            "id": 38,
+            "state": "0"
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[12]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 4,
+                "y": 3,
+                "z": 1
+            },
+            "id": 39,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[13]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 4,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 40,
+            "state": "4"
+        },
+        {
+            "rotation": 4,
+            "name": "classic9_chair[4]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 1.0E-6
+            },
+            "id": 41
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[14]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 5,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 42,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[9]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 5,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 43
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[15]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 5,
+                "y": 1,
+                "z": 1
+            },
+            "id": 44,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_1_recolorable[3]",
+            "className": "bc_block_1_recolorable",
+            "location": {
+                "x": 5,
+                "y": 2,
+                "z": 1
+            },
+            "id": 45,
+            "state": "3"
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[16]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 5,
+                "y": 3,
+                "z": 1
+            },
+            "id": 46,
+            "state": "3"
+        },
+        {
+            "rotation": 2,
+            "name": "wonderland_c25_tile3[2]",
+            "className": "wonderland_c25_tile3",
+            "location": {
+                "x": 5,
+                "y": 3,
+                "z": 2.5
+            },
+            "id": 47,
+            "state": "6"
+        },
+        {
+            "rotation": 0,
+            "name": "lt_c26_coin[0]",
+            "className": "lt_c26_coin",
+            "location": {
+                "x": 5,
+                "y": 3,
+                "z": 2.5
+            },
+            "id": 48,
+            "state": "1"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[17]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 5,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 49,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[10]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 5,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 50
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[18]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 6,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 51,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[19]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 6,
+                "y": 1,
+                "z": 1
+            },
+            "id": 52,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[11]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 6,
+                "y": 1,
+                "z": 1.25
+            },
+            "id": 53
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_1_recolorable[4]",
+            "className": "bc_block_1_recolorable",
+            "location": {
+                "x": 6,
+                "y": 2,
+                "z": 1
+            },
+            "id": 54,
+            "state": "3"
+        },
+        {
+            "rotation": 2,
+            "name": "wonderland_c25_tile3[3]",
+            "className": "wonderland_c25_tile3",
+            "location": {
+                "x": 6,
+                "y": 3,
+                "z": 2.5
+            },
+            "id": 55,
+            "state": "7"
+        },
+        {
+            "rotation": 4,
+            "name": "bc_block_0_recolorable[20]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 6,
+                "y": 3,
+                "z": 1
+            },
+            "id": 56,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_0_recolorable[21]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 6,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 57,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[12]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 6,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 58
+        },
+        {
+            "rotation": 0,
+            "name": "classic9_chair[5]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 6,
+                "y": 4,
+                "z": 1.0E-6
+            },
+            "id": 59
+        },
+        {
+            "rotation": 2,
+            "name": "bc_round_recolorable[2]",
+            "className": "bc_round_recolorable",
+            "location": {
+                "x": 7,
+                "y": 1,
+                "z": 1
+            },
+            "id": 60,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_stick_recolorable[1]",
+            "className": "bc_stick_recolorable",
+            "location": {
+                "x": 7,
+                "y": 1,
+                "z": 0
+            },
+            "id": 61,
+            "state": "3"
+        },
+        {
+            "rotation": 2,
+            "name": "bc_block_small_recolorable[2]",
+            "className": "bc_block_small_recolorable",
+            "location": {
+                "x": 7,
+                "y": 1,
+                "z": 1.3
+            },
+            "id": 62,
+            "state": "4"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[13]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 7,
+                "y": 1,
+                "z": 1.3
+            },
+            "id": 63
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[14]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 7,
+                "y": 2,
+                "z": 1.25
+            },
+            "id": 64
+        },
+        {
+            "rotation": 6,
+            "name": "bc_block_0_recolorable[22]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 7,
+                "y": 2,
+                "z": 1.25
+            },
+            "id": 65,
+            "state": "4"
+        },
+        {
+            "rotation": 2,
+            "name": "bc_block_0_recolorable[23]",
+            "className": "bc_block_0_recolorable",
+            "location": {
+                "x": 7,
+                "y": 2,
+                "z": 1
+            },
+            "id": 66,
+            "state": "3"
+        },
+        {
+            "rotation": 0,
+            "name": "room_invisible_block[15]",
+            "className": "room_invisible_block",
+            "location": {
+                "x": 7,
+                "y": 3,
+                "z": 1.25
+            },
+            "id": 67
+        },
+        {
+            "rotation": 0,
+            "name": "bc_stick_recolorable[2]",
+            "className": "bc_stick_recolorable",
+            "location": {
+                "x": 7,
+                "y": 3,
+                "z": 0
+            },
+            "id": 68,
+            "state": "3"
+        },
+        {
+            "rotation": 2,
+            "name": "wonderland_c25_tile3[4]",
+            "className": "wonderland_c25_tile3",
+            "location": {
+                "x": 7,
+                "y": 3,
+                "z": 2.5
+            },
+            "id": 69,
+            "state": "8"
+        },
+        {
+            "rotation": 0,
+            "name": "bc_block_small_recolorable[3]",
+            "className": "bc_block_small_recolorable",
+            "location": {
+                "x": 7,
+                "y": 3,
+                "z": 1.3
+            },
+            "id": 70,
+            "state": "4"
+        },
+        {
+            "rotation": 4,
+            "name": "bc_round_recolorable[3]",
+            "className": "bc_round_recolorable",
+            "location": {
+                "x": 7,
+                "y": 3,
+                "z": 1
+            },
+            "id": 71,
+            "state": "3"
+        },
+        {
+            "rotation": 6,
+            "name": "classic9_chair[6]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 8,
+                "y": 1,
+                "z": 1.0E-6
+            },
+            "id": 72
+        },
+        {
+            "rotation": 6,
+            "name": "classic9_chair[7]",
+            "className": "classic9_chair",
+            "location": {
+                "x": 8,
+                "y": 3,
+                "z": 1.0E-6
+            },
+            "id": 73
+        }
+    ]
+}

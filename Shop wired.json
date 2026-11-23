@@ -1,0 +1,3930 @@
+{
+    "wired": {
+        "effects": [
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    200
+                ],
+                "wiredId": 17,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": ["0"],
+                "options": [
+                    1,
+                    1,
+                    0,
+                    -20,
+                    1,
+                    11
+                ],
+                "config": "",
+                "items": [140]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 21,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    202,
+                    -1
+                ],
+                "config": "Your chest currently has $(coins)c",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 23,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362026",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    20,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 27,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": -50,
+                "variableIds": [
+                    "362028",
+                    "362031"
+                ],
+                "options": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    -20,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 28,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 30,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362028"],
+                "options": [1],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 31,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 33,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362026",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    20,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 36,
+                "userSources": [
+                    0,
+                    0
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362023",
+                    "362028"
+                ],
+                "options": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 39,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362023"],
+                "options": [0],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 41,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 42,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362026",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    20,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 43,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362024"],
+                "options": [0],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 46,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362026",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    2,
+                    0,
+                    0,
+                    1,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    200
+                ],
+                "wiredId": 47,
+                "userSources": [200],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [48]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 50,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    1,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 52,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 55,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362026",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    20,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 58,
+                "userSources": [
+                    0,
+                    0
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362029",
+                    "362031"
+                ],
+                "options": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    -20,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 59,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 61,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362026",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    0,
+                    0,
+                    0,
+                    20,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 62,
+                "userSources": [
+                    0,
+                    0
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362024",
+                    "362029"
+                ],
+                "options": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 65,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362029"],
+                "options": [1],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 68,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362027",
+                    "0"
+                ],
+                "options": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 70,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362023"],
+                "options": [0],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 71,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362024"],
+                "options": [0],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 72,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": ["362027"],
+                "options": [1],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    0
+                ],
+                "wiredId": 78,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362032",
+                    "-101"
+                ],
+                "options": [
+                    -20,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    0
+                ],
+                "wiredId": 79,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [76]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    201
+                ],
+                "wiredId": 82,
+                "userSources": [
+                    201,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362030",
+                    "-101"
+                ],
+                "options": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    201
+                ],
+                "wiredId": 83,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [88]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    201
+                ],
+                "wiredId": 84,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [114]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    201
+                ],
+                "wiredId": 87,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [97]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    201
+                ],
+                "wiredId": 90,
+                "userSources": [
+                    0,
+                    0
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362030",
+                    "-101"
+                ],
+                "options": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 93,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    252,
+                    -1
+                ],
+                "config": "$(f) is $(qty) for $(fprice)c\nStock: $(amount_in_chest)",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    0
+                ],
+                "wiredId": 103,
+                "userSources": [
+                    201,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362030",
+                    "-101"
+                ],
+                "options": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 105,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    252,
+                    2
+                ],
+                "config": "$(f) is $(fprice)c\nStock: $(amount_in_chest)",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    100,
+                    201
+                ],
+                "wiredId": 107,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "",
+                "items": [123]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 109,
+                "userSources": [201],
+                "delay": 0,
+                "variableIds": [],
+                "options": [1],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [117],
+                "furniSources": [
+                    100,
+                    101,
+                    0
+                ],
+                "wiredId": 110,
+                "userSources": [
+                    201,
+                    0
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362033",
+                    "0",
+                    "0"
+                ],
+                "options": [
+                    2,
+                    2,
+                    1,
+                    -20,
+                    0,
+                    300
+                ],
+                "config": "",
+                "items": [
+                    140,
+                    139
+                ]
+            },
+            {
+                "secondItems": [128],
+                "furniSources": [
+                    100,
+                    101,
+                    200
+                ],
+                "wiredId": 126,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "delay": 0,
+                "variableIds": [
+                    "362033",
+                    "0",
+                    "0"
+                ],
+                "options": [
+                    2,
+                    10,
+                    1,
+                    -20,
+                    0,
+                    300
+                ],
+                "config": "",
+                "items": [
+                    140,
+                    139
+                ]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 127,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": [],
+                "options": [1],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 130,
+                "userSources": [],
+                "delay": 0,
+                "variableIds": [],
+                "options": [0],
+                "config": "$(u) has bought $(qty) $(f) for $(fprice)c ",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 138,
+                "userSources": [0],
+                "delay": 0,
+                "variableIds": [],
+                "options": [
+                    0,
+                    202,
+                    -1
+                ],
+                "config": "â\u0080\u0098",
+                "items": []
+            }
+        ],
+        "variables": [
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 1,
+                "userSources": [],
+                "variableIds": [],
+                "options": [10],
+                "config": "shop_countdown",
+                "items": [],
+                "variableId": "353387"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 2,
+                "userSources": [],
+                "variableIds": [],
+                "options": [1],
+                "config": "shop_open",
+                "items": [],
+                "variableId": "353406"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 3,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    1,
+                    10
+                ],
+                "config": "fprice",
+                "items": [],
+                "variableId": "353388"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 5,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    1
+                ],
+                "config": "qty_to_be_set",
+                "items": [],
+                "variableId": "353429"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 7,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0
+                ],
+                "config": "is_removing",
+                "items": [],
+                "variableId": "353468"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 8,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    1,
+                    10
+                ],
+                "config": "qty",
+                "items": [],
+                "variableId": "353411"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 10,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    1
+                ],
+                "config": "price_to_be_set",
+                "items": [],
+                "variableId": "353401"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 13,
+                "userSources": [],
+                "variableIds": [],
+                "options": [1],
+                "config": "ctx_clicked_furni_class",
+                "items": [],
+                "variableId": ""
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 14,
+                "userSources": [],
+                "variableIds": [],
+                "options": [1],
+                "config": "price",
+                "items": [],
+                "variableId": ""
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 15,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    1
+                ],
+                "config": "clicked_furni_class",
+                "items": [],
+                "variableId": "353409"
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 136,
+                "userSources": [],
+                "variableIds": [],
+                "options": [1],
+                "config": "amount_in_chest",
+                "items": [],
+                "variableId": ""
+            }
+        ],
+        "addons": [
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 4,
+                "userSources": [],
+                "variableIds": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "options": [
+                    0,
+                    2,
+                    2,
+                    7,
+                    1,
+                    3000,
+                    2,
+                    102,
+                    -1,
+                    200,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "config": "gold",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 6,
+                "userSources": [],
+                "variableIds": [
+                    "0",
+                    "0",
+                    "362029"
+                ],
+                "options": [
+                    1,
+                    3,
+                    0,
+                    7,
+                    0,
+                    3000,
+                    0,
+                    5,
+                    -1,
+                    201,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "wooden_logs",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 9,
+                "userSources": [],
+                "variableIds": [
+                    "0",
+                    "0",
+                    "0"
+                ],
+                "options": [
+                    0,
+                    2,
+                    2,
+                    7,
+                    1,
+                    3000,
+                    0,
+                    3,
+                    -1,
+                    201,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ],
+                "config": "wooden_logs",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 11,
+                "userSources": [],
+                "variableIds": [
+                    "0",
+                    "0",
+                    "362028"
+                ],
+                "options": [
+                    1,
+                    3,
+                    0,
+                    7,
+                    0,
+                    3000,
+                    0,
+                    19,
+                    -1,
+                    201,
+                    0,
+                    0,
+                    0,
+                    100,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "config": "gold",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 22,
+                "userSources": [0],
+                "variableIds": ["~130"],
+                "options": [
+                    0,
+                    0,
+                    0
+                ],
+                "config": "coins",
+                "items": [140]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 25,
+                "userSources": [],
+                "variableIds": ["362031"],
+                "options": [0],
+                "config": "sp",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 26,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 54,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 57,
+                "userSources": [],
+                "variableIds": ["362031"],
+                "options": [0],
+                "config": "qty",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 85,
+                "userSources": [0],
+                "variableIds": ["362024"],
+                "options": [
+                    0,
+                    0,
+                    0
+                ],
+                "config": "qty",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [201],
+                "wiredId": 89,
+                "userSources": [],
+                "variableIds": [],
+                "options": [0],
+                "config": "f",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [201],
+                "wiredId": 92,
+                "userSources": [0],
+                "variableIds": ["362023"],
+                "options": [
+                    0,
+                    0,
+                    0
+                ],
+                "config": "fprice",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    201,
+                    100
+                ],
+                "wiredId": 94,
+                "userSources": [],
+                "variableIds": ["362033"],
+                "options": [0],
+                "config": "",
+                "items": [139]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 95,
+                "userSources": [0],
+                "variableIds": ["362033"],
+                "options": [
+                    0,
+                    -20,
+                    0
+                ],
+                "config": "amount_in_chest",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 96,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 98,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 99,
+                "userSources": [0],
+                "variableIds": ["362023"],
+                "options": [
+                    0,
+                    0,
+                    0
+                ],
+                "config": "fprice",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 100,
+                "userSources": [],
+                "variableIds": [],
+                "options": [0],
+                "config": "f",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 101,
+                "userSources": [0],
+                "variableIds": ["362033"],
+                "options": [
+                    0,
+                    -20,
+                    0
+                ],
+                "config": "amount_in_chest",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    201,
+                    100
+                ],
+                "wiredId": 102,
+                "userSources": [],
+                "variableIds": ["362033"],
+                "options": [0],
+                "config": "",
+                "items": [139]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 108,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    100
+                ],
+                "wiredId": 113,
+                "userSources": [],
+                "variableIds": ["362033"],
+                "options": [0],
+                "config": "",
+                "items": [139]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    0,
+                    201,
+                    0
+                ],
+                "wiredId": 117,
+                "userSources": [
+                    200,
+                    200
+                ],
+                "variableIds": [
+                    "362023",
+                    "362024"
+                ],
+                "options": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 119,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    100
+                ],
+                "wiredId": 120,
+                "userSources": [],
+                "variableIds": ["362033"],
+                "options": [0],
+                "config": "",
+                "items": [139]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    0,
+                    0,
+                    200
+                ],
+                "wiredId": 128,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362023",
+                    "0"
+                ],
+                "options": [
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    -20
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 129,
+                "userSources": [0],
+                "variableIds": ["-473"],
+                "options": [
+                    0,
+                    -20,
+                    0
+                ],
+                "config": "qty",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 131,
+                "userSources": [0],
+                "variableIds": [],
+                "options": [0],
+                "config": "u",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 134,
+                "userSources": [],
+                "variableIds": [],
+                "options": [0],
+                "config": "f",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 135,
+                "userSources": [0],
+                "variableIds": ["-472"],
+                "options": [
+                    0,
+                    -20,
+                    0
+                ],
+                "config": "fprice",
+                "items": []
+            }
+        ],
+        "conditions": [
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 18,
+                "userSources": [0],
+                "variableIds": ["-223"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 20,
+                "userSources": [0],
+                "variableIds": ["-223"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 29,
+                "userSources": [0],
+                "variableIds": ["-223"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": [29]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 34,
+                "userSources": [0],
+                "variableIds": ["362028"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 40,
+                "userSources": [0],
+                "variableIds": ["-223"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 45,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362026",
+                    "n"
+                ],
+                "options": [
+                    -10,
+                    5,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 49,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    4,
+                    0,
+                    0,
+                    1,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 53,
+                "userSources": [0],
+                "variableIds": ["-222"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 60,
+                "userSources": [0],
+                "variableIds": ["362029"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 66,
+                "userSources": [0],
+                "variableIds": ["-222"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 69,
+                "userSources": [0],
+                "variableIds": ["362027"],
+                "options": [1],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 80,
+                "userSources": [
+                    201,
+                    0
+                ],
+                "variableIds": [
+                    "362030",
+                    "362032"
+                ],
+                "options": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    -20,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [0],
+                "wiredId": 86,
+                "userSources": [0],
+                "variableIds": ["362024"],
+                "options": [0],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 106,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362033",
+                    "0"
+                ],
+                "options": [
+                    -20,
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    201,
+                    200
+                ],
+                "wiredId": 111,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362024",
+                    "0"
+                ],
+                "options": [
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 112,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    1,
+                    0,
+                    0,
+                    1,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    201
+                ],
+                "wiredId": 116,
+                "userSources": [
+                    201,
+                    200
+                ],
+                "variableIds": [
+                    "362030",
+                    "-101"
+                ],
+                "options": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    201
+                ],
+                "wiredId": 118,
+                "userSources": [
+                    201,
+                    200
+                ],
+                "variableIds": [
+                    "362030",
+                    "-101"
+                ],
+                "options": [
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 121,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362033",
+                    "0"
+                ],
+                "options": [
+                    -20,
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 124,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362025",
+                    "0"
+                ],
+                "options": [
+                    -10,
+                    1,
+                    0,
+                    0,
+                    1,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [
+                    0,
+                    200
+                ],
+                "wiredId": 125,
+                "userSources": [
+                    0,
+                    200
+                ],
+                "variableIds": [
+                    "362033",
+                    "0"
+                ],
+                "options": [
+                    -20,
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "quantifier": 0,
+                "config": "",
+                "items": []
+            }
+        ],
+        "triggers": [
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 16,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "!withdraw",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 19,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "!coins",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 24,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "!sp #(sp)",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 32,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [32]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 37,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "!rmall",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 44,
+                "userSources": [],
+                "variableIds": [],
+                "options": [2],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 51,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [48]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 56,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "!sq #(qty)",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 64,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 67,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    0,
+                    0,
+                    1
+                ],
+                "config": "!rm",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 74,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [200],
+                "wiredId": 77,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 81,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [76]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 91,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [88]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 104,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [97]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 115,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [114]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 122,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [123]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "wiredId": 133,
+                "userSources": [],
+                "variableIds": [],
+                "options": [],
+                "config": "",
+                "items": [
+                    117,
+                    128
+                ]
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "wiredId": 137,
+                "userSources": [],
+                "variableIds": [],
+                "options": [5],
+                "config": "",
+                "items": []
+            }
+        ],
+        "selectors": [
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "filter": false,
+                "inverse": false,
+                "wiredId": 35,
+                "userSources": [0],
+                "variableIds": [
+                    "-101",
+                    "0"
+                ],
+                "options": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [],
+                "filter": false,
+                "inverse": true,
+                "wiredId": 38,
+                "userSources": [],
+                "variableIds": [],
+                "options": [
+                    35,
+                    4,
+                    1,
+                    1
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "filter": false,
+                "inverse": false,
+                "wiredId": 63,
+                "userSources": [0],
+                "variableIds": [
+                    "-101",
+                    "0"
+                ],
+                "options": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "filter": false,
+                "inverse": false,
+                "wiredId": 73,
+                "userSources": [0],
+                "variableIds": [
+                    "-101",
+                    "0"
+                ],
+                "options": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "filter": false,
+                "inverse": false,
+                "wiredId": 75,
+                "userSources": [0],
+                "variableIds": [
+                    "362023",
+                    "0"
+                ],
+                "options": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    -10,
+                    0
+                ],
+                "config": "",
+                "items": []
+            },
+            {
+                "secondItems": [],
+                "furniSources": [100],
+                "filter": false,
+                "inverse": false,
+                "wiredId": 132,
+                "userSources": [0],
+                "variableIds": [
+                    "-101",
+                    "362030"
+                ],
+                "options": [
+                    1,
+                    2,
+                    0,
+                    0,
+                    1,
+                    0
+                ],
+                "config": "",
+                "items": []
+            }
+        ],
+        "variables_map": {
+            "clicked_furni_class": "362030",
+            "amount_in_chest": "362033",
+            "shop_countdown": "362026",
+            "price": "362031",
+            "qty": "362024",
+            "is_removing": "362027",
+            "shop_open": "362025",
+            "qty_to_be_set": "362029",
+            "fprice": "362023",
+            "price_to_be_set": "362028",
+            "ctx_clicked_furni_class": "362032"
+        }
+    },
+    "bindings": [],
+    "furni": [
+        {
+            "rotation": 0,
+            "name": "wf_var_room[0]",
+            "className": "wf_var_room",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": 1
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_room[1]",
+            "className": "wf_var_room",
+            "location": {
+                "x": 0,
+                "y": 0,
+                "z": 1.2
+            },
+            "id": 2
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_furni[0]",
+            "className": "wf_var_furni",
+            "location": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "id": 3
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_varfx_number[0]",
+            "className": "wf_xtra_varfx_number",
+            "location": {
+                "x": 0,
+                "y": 1,
+                "z": 1.2
+            },
+            "id": 4
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_user[0]",
+            "className": "wf_var_user",
+            "location": {
+                "x": 0,
+                "y": 2,
+                "z": 0
+            },
+            "id": 5
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_varfx_number[1]",
+            "className": "wf_xtra_varfx_number",
+            "location": {
+                "x": 0,
+                "y": 2,
+                "z": 1.2
+            },
+            "id": 6
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_user[1]",
+            "className": "wf_var_user",
+            "location": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+            },
+            "id": 7
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_furni[1]",
+            "className": "wf_var_furni",
+            "location": {
+                "x": 0,
+                "y": 4,
+                "z": 0
+            },
+            "id": 8
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_varfx_number[2]",
+            "className": "wf_xtra_varfx_number",
+            "location": {
+                "x": 0,
+                "y": 4,
+                "z": 1.2
+            },
+            "id": 9
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_user[2]",
+            "className": "wf_var_user",
+            "location": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            },
+            "id": 10
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_varfx_number[3]",
+            "className": "wf_xtra_varfx_number",
+            "location": {
+                "x": 1,
+                "y": 1,
+                "z": 1.2
+            },
+            "id": 11
+        },
+        {
+            "rotation": 2,
+            "name": "conf_area_hide[0]",
+            "className": "conf_area_hide",
+            "location": {
+                "x": 2,
+                "y": 0,
+                "z": 2.39
+            },
+            "id": 12,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_context[0]",
+            "className": "wf_var_context",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 2.4
+            },
+            "id": 13
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_context[1]",
+            "className": "wf_var_context",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 0
+            },
+            "id": 14
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_user[3]",
+            "className": "wf_var_user",
+            "location": {
+                "x": 2,
+                "y": 1,
+                "z": 1.2
+            },
+            "id": 15
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[0]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0
+            },
+            "id": 16
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_currency[0]",
+            "className": "wf_act_give_currency",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 17
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[0]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 3,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 18
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[1]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 0
+            },
+            "id": 19
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[1]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 20
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_show_message[0]",
+            "className": "wf_act_show_message",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 1.67
+            },
+            "id": 21
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[0]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 4,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 22
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[0]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 2.32
+            },
+            "id": 23
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[2]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 0
+            },
+            "id": 24
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_input_variable[0]",
+            "className": "wf_xtra_text_input_variable",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 25
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_exec_in_order[0]",
+            "className": "wf_xtra_exec_in_order",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 2.96
+            },
+            "id": 26
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[0]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 1.01
+            },
+            "id": 27
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[1]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 1.67
+            },
+            "id": 28
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[2]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 5,
+                "y": 0,
+                "z": 3.34
+            },
+            "id": 29
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[0]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 2.94
+            },
+            "id": 30
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[2]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 3.6
+            },
+            "id": 31
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_click_furni[0]",
+            "className": "wf_trg_click_furni",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 0
+            },
+            "id": 32
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[3]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 4.25
+            },
+            "id": 33
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[3]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 1.64
+            },
+            "id": 34
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_with_var[0]",
+            "className": "wf_slc_furni_with_var",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 35
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[1]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 6,
+                "y": 0,
+                "z": 2.3
+            },
+            "id": 36
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[3]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 0
+            },
+            "id": 37
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_area[0]",
+            "className": "wf_slc_furni_area",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 38
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[1]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 1.64
+            },
+            "id": 39
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[4]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 4.25
+            },
+            "id": 40
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[4]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 2.3
+            },
+            "id": 41
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[5]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 2.94
+            },
+            "id": 42
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[2]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 7,
+                "y": 0,
+                "z": 3.6
+            },
+            "id": 43
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_periodically[0]",
+            "className": "wf_trg_periodically",
+            "location": {
+                "x": 8,
+                "y": 0,
+                "z": 0
+            },
+            "id": 44
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[0]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 8,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 45
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[6]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 8,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 46
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_neg_send_signal[0]",
+            "className": "wf_act_neg_send_signal",
+            "location": {
+                "x": 8,
+                "y": 0,
+                "z": 1.94
+            },
+            "id": 47
+        },
+        {
+            "rotation": 0,
+            "name": "wf_antenna2[0]",
+            "className": "wf_antenna2",
+            "location": {
+                "x": 8,
+                "y": 0,
+                "z": 2.6
+            },
+            "id": 48,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[1]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 9,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 49
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[7]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 9,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 50
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_recv_signal[0]",
+            "className": "wf_trg_recv_signal",
+            "location": {
+                "x": 9,
+                "y": 0,
+                "z": 0
+            },
+            "id": 51
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[8]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 1.67
+            },
+            "id": 52
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[5]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 3.34
+            },
+            "id": 53
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_exec_in_order[1]",
+            "className": "wf_xtra_exec_in_order",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 2.32
+            },
+            "id": 54
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[9]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 2.69
+            },
+            "id": 55
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[4]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 0
+            },
+            "id": 56
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_input_variable[1]",
+            "className": "wf_xtra_text_input_variable",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 57
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[2]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 10,
+                "y": 0,
+                "z": 1.01
+            },
+            "id": 58
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[10]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 3.6
+            },
+            "id": 59
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[6]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 1.64
+            },
+            "id": 60
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_change_var_val[11]",
+            "className": "wf_act_change_var_val",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 4.25
+            },
+            "id": 61
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[3]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 2.3
+            },
+            "id": 62
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_with_var[1]",
+            "className": "wf_slc_furni_with_var",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 63
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_click_furni[1]",
+            "className": "wf_trg_click_furni",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 0
+            },
+            "id": 64
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[3]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 11,
+                "y": 0,
+                "z": 2.94
+            },
+            "id": 65
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[7]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 12,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 66
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_says_something[5]",
+            "className": "wf_trg_says_something",
+            "location": {
+                "x": 12,
+                "y": 0,
+                "z": 0
+            },
+            "id": 67
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[4]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 12,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 68
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[8]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 13,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 69
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[4]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 13,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 70
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[5]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 13,
+                "y": 0,
+                "z": 1.94
+            },
+            "id": 71
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_remove_var[6]",
+            "className": "wf_act_remove_var",
+            "location": {
+                "x": 13,
+                "y": 0,
+                "z": 2.6
+            },
+            "id": 72
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_with_var[2]",
+            "className": "wf_slc_furni_with_var",
+            "location": {
+                "x": 13,
+                "y": 0,
+                "z": 3.25
+            },
+            "id": 73
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_click_furni[2]",
+            "className": "wf_trg_click_furni",
+            "location": {
+                "x": 13,
+                "y": 0,
+                "z": 0
+            },
+            "id": 74
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_with_var[3]",
+            "className": "wf_slc_furni_with_var",
+            "location": {
+                "x": 14,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 75
+        },
+        {
+            "rotation": 0,
+            "name": "wf_antenna2[1]",
+            "className": "wf_antenna2",
+            "location": {
+                "x": 14,
+                "y": 0,
+                "z": 2.94
+            },
+            "id": 76,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_click_furni[3]",
+            "className": "wf_trg_click_furni",
+            "location": {
+                "x": 14,
+                "y": 0,
+                "z": 0
+            },
+            "id": 77
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[5]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 14,
+                "y": 0,
+                "z": 1.64
+            },
+            "id": 78
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_send_signal[0]",
+            "className": "wf_act_send_signal",
+            "location": {
+                "x": 14,
+                "y": 0,
+                "z": 2.3
+            },
+            "id": 79
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[2]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 15,
+                "y": 0,
+                "z": 2.6
+            },
+            "id": 80
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_recv_signal[1]",
+            "className": "wf_trg_recv_signal",
+            "location": {
+                "x": 15,
+                "y": 0,
+                "z": 0
+            },
+            "id": 81
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[6]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 15,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 82
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_neg_send_signal[1]",
+            "className": "wf_act_neg_send_signal",
+            "location": {
+                "x": 15,
+                "y": 0,
+                "z": 1.94
+            },
+            "id": 83
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_send_signal[1]",
+            "className": "wf_act_send_signal",
+            "location": {
+                "x": 15,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 84
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[1]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 4.45
+            },
+            "id": 85
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_has_var[9]",
+            "className": "wf_cnd_has_var",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 86
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_neg_send_signal[2]",
+            "className": "wf_act_neg_send_signal",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 4.82
+            },
+            "id": 87
+        },
+        {
+            "rotation": 0,
+            "name": "wf_antenna2[2]",
+            "className": "wf_antenna2",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 5.4700003
+            },
+            "id": 88,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_furni_name[0]",
+            "className": "wf_xtra_text_output_furni_name",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 1.67
+            },
+            "id": 89
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[7]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 2.41
+            },
+            "id": 90
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_recv_signal[2]",
+            "className": "wf_trg_recv_signal",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 0
+            },
+            "id": 91
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[2]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 3.06
+            },
+            "id": 92
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_show_message[1]",
+            "className": "wf_act_show_message",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 3.79
+            },
+            "id": 93
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_scan_chest_furni_by_type[0]",
+            "className": "wf_xtra_scan_chest_furni_by_type",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 2.04
+            },
+            "id": 94
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[3]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 3.43
+            },
+            "id": 95
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_exec_in_order[2]",
+            "className": "wf_xtra_exec_in_order",
+            "location": {
+                "x": 16,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 96
+        },
+        {
+            "rotation": 0,
+            "name": "wf_antenna2[3]",
+            "className": "wf_antenna2",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 4.53
+            },
+            "id": 97,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_exec_in_order[3]",
+            "className": "wf_xtra_exec_in_order",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 98
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[4]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 1.76
+            },
+            "id": 99
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_furni_name[1]",
+            "className": "wf_xtra_text_output_furni_name",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 1.39
+            },
+            "id": 100
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[5]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 2.13
+            },
+            "id": 101
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_scan_chest_furni_by_type[1]",
+            "className": "wf_xtra_scan_chest_furni_by_type",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 1.02
+            },
+            "id": 102
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_give_var[8]",
+            "className": "wf_act_give_var",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 2.5
+            },
+            "id": 103
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_recv_signal[3]",
+            "className": "wf_trg_recv_signal",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 0
+            },
+            "id": 104
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_show_message[2]",
+            "className": "wf_act_show_message",
+            "location": {
+                "x": 17,
+                "y": 0,
+                "z": 3.15
+            },
+            "id": 105
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[3]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 2.6
+            },
+            "id": 106
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_neg_send_signal[3]",
+            "className": "wf_act_neg_send_signal",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 5.29
+            },
+            "id": 107
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_exec_in_order[4]",
+            "className": "wf_xtra_exec_in_order",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 3.25
+            },
+            "id": 108
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_cancel_transaction[0]",
+            "className": "wf_act_cancel_transaction",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 3.99
+            },
+            "id": 109
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_init_transaction[0]",
+            "className": "wf_act_init_transaction",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 4.64
+            },
+            "id": 110
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[4]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 111
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[5]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 1.95
+            },
+            "id": 112
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_scan_chest_furni_by_type[2]",
+            "className": "wf_xtra_scan_chest_furni_by_type",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 3.62
+            },
+            "id": 113
+        },
+        {
+            "rotation": 0,
+            "name": "wf_antenna2[4]",
+            "className": "wf_antenna2",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 5.94
+            },
+            "id": 114,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_recv_signal[4]",
+            "className": "wf_trg_recv_signal",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 0
+            },
+            "id": 115
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[6]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 18,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 116
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_custom_contract[0]",
+            "className": "wf_xtra_custom_contract",
+            "location": {
+                "x": 18,
+                "y": 1,
+                "z": 0
+            },
+            "id": 117
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[7]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 118
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_exec_in_order[5]",
+            "className": "wf_xtra_exec_in_order",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 3.25
+            },
+            "id": 119
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_scan_chest_furni_by_type[3]",
+            "className": "wf_xtra_scan_chest_furni_by_type",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 3.62
+            },
+            "id": 120
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[8]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 1.3
+            },
+            "id": 121
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_recv_signal[5]",
+            "className": "wf_trg_recv_signal",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 0
+            },
+            "id": 122
+        },
+        {
+            "rotation": 0,
+            "name": "wf_antenna2[5]",
+            "className": "wf_antenna2",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 5.29
+            },
+            "id": 123,
+            "state": "0"
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[9]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 1.95
+            },
+            "id": 124
+        },
+        {
+            "rotation": 0,
+            "name": "wf_cnd_var_val_match[10]",
+            "className": "wf_cnd_var_val_match",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 2.6
+            },
+            "id": 125
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_init_transaction[1]",
+            "className": "wf_act_init_transaction",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 4.64
+            },
+            "id": 126
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_cancel_transaction[1]",
+            "className": "wf_act_cancel_transaction",
+            "location": {
+                "x": 19,
+                "y": 0,
+                "z": 3.99
+            },
+            "id": 127
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_custom_contract[1]",
+            "className": "wf_xtra_custom_contract",
+            "location": {
+                "x": 19,
+                "y": 1,
+                "z": 0
+            },
+            "id": 128
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[6]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 1.39
+            },
+            "id": 129
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_log[0]",
+            "className": "wf_act_log",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 1.76
+            },
+            "id": 130
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_username[0]",
+            "className": "wf_xtra_text_output_username",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 2.41
+            },
+            "id": 131
+        },
+        {
+            "rotation": 0,
+            "name": "wf_slc_furni_with_var[4]",
+            "className": "wf_slc_furni_with_var",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 2.78
+            },
+            "id": 132
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_transaction_complete[0]",
+            "className": "wf_trg_transaction_complete",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 0
+            },
+            "id": 133
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_furni_name[2]",
+            "className": "wf_xtra_text_output_furni_name",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 0.64
+            },
+            "id": 134
+        },
+        {
+            "rotation": 0,
+            "name": "wf_xtra_text_output_variable[7]",
+            "className": "wf_xtra_text_output_variable",
+            "location": {
+                "x": 20,
+                "y": 0,
+                "z": 1.01
+            },
+            "id": 135
+        },
+        {
+            "rotation": 0,
+            "name": "wf_var_context[2]",
+            "className": "wf_var_context",
+            "location": {
+                "x": 21,
+                "y": 0,
+                "z": 0
+            },
+            "id": 136
+        },
+        {
+            "rotation": 0,
+            "name": "wf_trg_user_performs_action[0]",
+            "className": "wf_trg_user_performs_action",
+            "location": {
+                "x": 22,
+                "y": 0,
+                "z": 0
+            },
+            "id": 137
+        },
+        {
+            "rotation": 0,
+            "name": "wf_act_show_message[3]",
+            "className": "wf_act_show_message",
+            "location": {
+                "x": 22,
+                "y": 0,
+                "z": 0.65
+            },
+            "id": 138
+        },
+        {
+            "rotation": 2,
+            "name": "wf_storage_furni1[0]",
+            "className": "wf_storage_furni1",
+            "location": {
+                "x": 23,
+                "y": 0,
+                "z": 0
+            },
+            "id": 139,
+            "state": "0"
+        },
+        {
+            "rotation": 2,
+            "name": "wf_storage_coins2[0]",
+            "className": "wf_storage_coins2",
+            "location": {
+                "x": 24,
+                "y": 0,
+                "z": 0
+            },
+            "id": 140,
+            "state": "1"
+        }
+    ]
+}
